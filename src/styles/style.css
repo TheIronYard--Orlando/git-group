@@ -14,7 +14,9 @@ h2 {
 }
 p {
   font-family: cursive;
+  font-weight: bold;
 }
+
 h1 {
   font-size: 1.2em;
   color: #bada55;
@@ -26,4 +28,7 @@ h4 {
     height: 40px;
     width: 40px
   }
+}
+.App-header {
+  background: lightblue;
 }
