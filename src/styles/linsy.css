@@ -1,0 +1,46 @@
+p {
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+.App-header {
+  background: lightblue;
+}
+h2 {
+  color: orange;
+}
+
+body{
+  color: red;
+}
+
+body {
+  border: 3px solid green;
+}
+
+h2 {
+  color: blue;
+  font-size: 80px;
+}
+
+p {
+  font-family: cursive;
+}
+
+h1 {
+  font-size: 1.2em;
+  color: #bada55;
+}
+
+html{
+  background-color: #F3F3F3;
+}
+
+h4 {
+  {
+    text-align: center;
+    background-image: url(https://filmgrab.files.wordpress.com/2010/09/03-escaping.png);
+    height: 40px;
+    width: 40px
+  }
+}
